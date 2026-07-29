@@ -131,6 +131,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - **[Adobe Firefly 3](https://www.adobe.com/sensei/generative-ai/firefly.html)** 🔄 - Adobe's commercial-safe AI generator
 - **[Leonardo.ai](https://leonardo.ai)** 🔄 - Fine-tuned models for different art styles
 - **[RenderFlow AI](https://renderflowai.com)** 🆕🔄 - Multi-model platform with GPT-Image-1, Imagen 4, Flux Pro Ultra, Midjourney, Kling & Veo3
+- **[GPT Image 2](https://gptimage2.asia/)** 🆕🔄 - AI image generator and editor for marketing visuals, ecommerce assets, social posts, and branded content
 
 #### 🆓 Free & Open Source
 - **[Stable Diffusion 3.5](https://stability.ai)** 🆕🆓 - Latest open-source foundation model
